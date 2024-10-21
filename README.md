@@ -7,26 +7,9 @@
 
 |                                               [전현진](https://github.com/HyeonJinJeon)                                                |                                                    [곽유진](https://github.com/jinijavac)                                                     |                                                    [손설빈](https://github.com/seolbb)                                                     |                                          [김혜주](https://github.com/kimoju01)                                          |                                                    [박경서](https://github.com/kyongseo)                                                     |
 |:---------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| <img width="150" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Axa1JxoAfrkVVHgQmEI49vuREEtRJoQ9Xw&s"> | <img width="150" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Axa1JxoAfrkVVHgQmEI49vuREEtRJoQ9Xw&s"> | <img width="150" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Axa1JxoAfrkVVHgQmEI49vuREEtRJoQ9Xw&s"> | <img width="150" height="150" src="https://github.com/user-attachments/assets/8d5bb1bb-d84f-4b09-af8a-315f82271388"> | <img width="150" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Axa1JxoAfrkVVHgQmEI49vuREEtRJoQ9Xw&s"> | 
-|                                                                팀장                                                                 |                                                                팀원                                                                 |                                                                팀원                                                                 |                                                     카페인 대신 초콜릿🍫                                                     |                                                                팀원                                                                 | 
+|                                                                팀장                                                                 |                                                                팀원                                                                 |                                                                팀원                                                                 |                                                     팀원                                                     |                                                                팀원                                                                 | 
 
 
-
-**목차**
-
-1. [프로젝트 개요 (Overview)](#프로젝트-개요-overview)
-2. [기술 스택 (Tech Stack)](#기술-스택-tech-stack)
-3. [설치 및 실행 방법 (Installation & Setup)](#설치-및-실행-방법-installation--setup)
-4. [주요 기능 (Features)](#주요-기능-features)
-5. [프로젝트 구조 (Project Structure)](#프로젝트-구조-project-structure)
-6. [데모 (Demo)](#데모-demo)
-7. [테스트 (Testing)](#테스트-testing)
-8. [기여 방법 (Contributing)](#기여-방법-contributing)
-9. [라이선스 (License)](#라이선스-license)
-10. [문제 해결 (Troubleshooting) 및 FAQ](#문제-해결-troubleshooting-및-faq)
-11. [향후 계획 (Future Work)](#향후-계획-future-work)
-12. [기타 참고 자료 (Additional Resources)](#기타-참고-자료-additional-resources)
----
 
 ## 프로젝트 개요 (Overview)
 
